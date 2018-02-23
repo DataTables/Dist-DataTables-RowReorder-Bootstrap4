@@ -3,9 +3,10 @@
     "version": "1.2.3",
     "description": "RowReorder for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
-    "main": "./js/rowReorder.bootstrap4.js",
+    "main": "js/rowReorder.bootstrap4.js",
     "keywords": [
         "row reordering",
         "DataTables",
@@ -24,5 +25,6 @@
         "jquery": ">=1.7",
         "datatables.net-bs4": "^1.10.15",
         "datatables.net-rowreorder": "1.2.3"
-    }
+    },
+    "style": "css/rowReorder.bootstrap4.css"
 }
