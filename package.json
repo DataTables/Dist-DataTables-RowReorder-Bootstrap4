@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-rowreorder-bs4",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "description": "RowReorder for DataTables with styling for [Bootstrap 4](http://getbootstrap.com/)",
     "files": [
         "css/**/*.css",
@@ -24,7 +24,7 @@
     "dependencies": {
         "jquery": ">=1.7",
         "datatables.net-bs4": "^1.10.15",
-        "datatables.net-rowreorder": "1.2.4"
+        "datatables.net-rowreorder": "1.2.5"
     },
     "style": "css/rowReorder.bootstrap4.css"
 }
