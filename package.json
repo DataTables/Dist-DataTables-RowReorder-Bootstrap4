@@ -4,16 +4,16 @@
     "main": "js/rowReorder.bootstrap4.js",
     "style": "css/rowReorder.bootstrap4.css",
     "types": "./types/rowReorder.bootstrap4.d.ts",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "RowReorder",
- "Row Reordering",
+        "Row Reordering",
         "Bootstrap",
- "Bootstrap4",
+        "Bootstrap4",
         "Datatables",
         "jQuery",
         "table",
@@ -21,9 +21,9 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-rowreorder": ">=1.2.7",
-        "datatables.net-bs4": ">=1.10.24",
-        "jquery": ">=1.7"
+        "jquery": ">=1.7",
+        "datatables.net-bs4": "^1.10.15",
+        "datatables.net-rowreorder": "1.2.8"
     },
     "moduleType": [
         "globals",
