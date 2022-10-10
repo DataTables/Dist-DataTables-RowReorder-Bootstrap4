@@ -2,12 +2,14 @@
     "name": "datatables.net-rowreorder-bs4",
     "description": "RowReorder for DataTables with styling for [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)",
     "main": "js/rowReorder.bootstrap4.js",
+    "module": "js/rowReorder.bootstrap4.mjs",
     "style": "css/rowReorder.bootstrap4.css",
     "types": "./types/rowReorder.bootstrap4.d.ts",
     "version": "1.2.8",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
