@@ -4,7 +4,7 @@
 
 import $ from 'jquery';
 import DataTable from 'datatables.net-bs4';
-import 'datatables.net-rowreorder';
+import RowReorder from 'datatables.net-rowreorder';
 
 
 
