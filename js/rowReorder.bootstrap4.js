@@ -1,4 +1,4 @@
-/*! RowReorder Bootstrap 4 styling 2.0.0-beta.1 for DataTables
+/*! RowReorder Bootstrap 4 styling 2.0.0 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
